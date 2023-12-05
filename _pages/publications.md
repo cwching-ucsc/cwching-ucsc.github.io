@@ -27,10 +27,9 @@ author_profile: true
   **Cheng-Wei Ching**, Chung-Kai Yang, Yu-Chun Liu, Chia-Wei Hsu, Jian-Jhih Kuo, Hung-Sheng Huang, Jen-Feng Lee    
   in _Proceedings of IEEE Global Communications Conference 2020_ **(GLOBECOM'20)**, Taipei, Taiwan, 2020.
 
-
 ## Journal Papers
 
-* **[TSC]** [Dual-Objective Personalized Federated Service System With Partially-Labeled Data Over Wireless Networks](http://github.com "Github")  
+* **[TSC]** [Dual-Objective Personalized Federated Service System With Partially-Labeled Data Over Wireless Networks](http://cwching-ucsc.github.io/files/22_TSC_Dual.pdf "Github")  
   **Cheng-Wei Ching**, Jia-Ming Chang, Jian-Jhih Kuo, Chih-Yu Wang    
   in _IEEE Transactions on Services Computing_ **(IEEE TSC)**, volume 16, issue 5, pages 3265 - 3279, Sept.-Oct. 2023.
 
