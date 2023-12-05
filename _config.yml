@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Cheng-Wei Ching"
   avatar           : "Cheng-Wei.jpg"
-  bio              : "Hi, I am a PhD student at the ELVES lab led by Dr. Liting Hu. My research interests include distributed systems for machine learning, distributed machine learning, and algorithm designs."
+  bio              : "Hi, I am a PhD student at Unversity of California, Santa Cruz (UCSC). My research interests include distributed systems for machine learning, distributed machine learning, and algorithm designs."
   location         : "California, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.tw/citations?user=r23-Ou8AAAAJ&hl=en"
   email            : "cching1@ucsc.edu"
+  googlescholar    : "https://scholar.google.com.tw/citations?user=r23-Ou8AAAAJ&hl=en"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
