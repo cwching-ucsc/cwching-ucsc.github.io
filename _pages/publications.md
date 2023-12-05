@@ -41,10 +41,10 @@ author_profile: true
 
 ## Workshop Papers
 
-* **[ECAI'23]** [OrcoDCS: An IoT-Edge Orchestrated Online Deep Compressed Sensing Framework](http://github.com "Github")  
+* **[ECAI'23]** [OrcoDCS: An IoT-Edge Orchestrated Online Deep Compressed Sensing Framework](http://cwching-ucsc.github.io/files/OrcDCS.pdf "paper")  
   **Cheng-Wei Ching**, Chirag Gupta, Zi Huang, Liting Hu    
   in _Proceedings of the First International Workshop on Edge-to-Cloud AI Orchestration (ECAI), in conjunction with IEEE 43rd International Conference on Distributed Computing Systems_ **(ICDCS'23)**, Hong Kong, China, 2023.
 
-* **[ECAI'23]** [OrcoDCS: An IoT-Edge Orchestrated Online Deep Compressed Sensing Framework](http://github.com "Github")  
+* **[NMIC'20]** [OrcoDCS: An IoT-Edge Orchestrated Online Deep Compressed Sensing Framework](http://github.com "Github")  
   **Cheng-Wei Ching**, Chirag Gupta, Zi Huang, Liting Hu    
   in _Proceedings of the Second International Workshop on Network Meets Intelligent Computations (NMIC), in conjunction with IEEE 40th International Conference on Distributed Computing Systems_ **(ICDCS'20)**, virtual event, 2020.
