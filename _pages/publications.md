@@ -6,7 +6,7 @@ author_profile: true
 
 ## Conference Papers
 
-* **[EuroSys24]** [Totoro: A Scalable Federated Learning Engine for the Edge](http://cwching-ucsc.github.io "PDF")  
+* **[EuroSys24]** [Totoro: A Scalable Federated Learning Engine for the Edge](https://cwching-ucsc.github.io//publications/ "PDF")  
   **Cheng-Wei Ching**, Xin Chen, Taehwan Kim, Chirag Gupta, Bo Ji, Qingyang Wang, Dilma Da Silva, Liting Hu  
   In _Proceedings of the 19th ACM SIGOPS European Conference on Computer Systems_ **(EuroSys'24)**, Athens, Greece, April 2024.
 
