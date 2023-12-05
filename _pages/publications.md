@@ -45,5 +45,5 @@ author_profile: true
   in _Proceedings of the First International Workshop on Edge-to-Cloud AI Orchestration (ECAI), in conjunction with IEEE 43rd International Conference on Distributed Computing Systems_ **(ICDCS'23)**, Hong Kong, China, 2023.
 
 * **[NMIC'20]** [OrcoDCS: An IoT-Edge Orchestrated Online Deep Compressed Sensing Framework](http://cwching-ucsc.github.io/files/20ICDCS_workshop.pdf "PDF")  
-  **Cheng-Wei Ching**, Chirag Gupta, Zi Huang, Liting Hu    
+  **Cheng-Wei Ching**, Yu-Chun Liu, Chung-Kai Yang, Jian-Jhih Kuo, and Feng-Ting Su   
   in _Proceedings of the Second International Workshop on Network Meets Intelligent Computations (NMIC), in conjunction with IEEE 40th International Conference on Distributed Computing Systems_ **(ICDCS'20)**, virtual event, 2020.
