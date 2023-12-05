@@ -11,19 +11,40 @@ author_profile: true
   In _Proceedings of the 19th ACM SIGOPS European Conference on Computer Systems_ **(EuroSys'24)**, Athens, Greece, April 2024.
 
   
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* **[GLOBECOM'21]** [Efficient Online Decentralized Learning Framework for Social Internet of Things](http://github.com "Github")  
+  **Cheng-Wei Ching**, Hung-Sheng Huang, Chun-An Yang, Jian-Jhih Kuo, Ren-Hung Hwang    
+  in _Proceedings of IEEE Global Communications Conference 2021_ **(GLOBECOM'21)**, virtual event, 2021.
+
+* **[ICCCN'21]** [Efficient Communication Topology via Partially Differential Privacy for Decentralized Learning](http://github.com "Github")  
+  **Cheng-Wei Ching**, Hung-Sheng Huang, Chun-An Yang, Yu-Chun Liu, Jian-Jhih Kuo    
+  in _Proceedings of  the 32nd International Conference on Computer Communications and Networks_ **(ICCCN'21)**, virtual event, 2021.
+
+* **[GLOBECOM'20]** [Model Partition Defense against GAN Attacks on Collaborative Learning via Mobile Edge Computing](http://github.com "Github")  
+  **Cheng-Wei Ching**, Tzu-Cheng Lin, Kung-Hao Chang, Chih-Chiung Yao, Jian-Jhih Kuo    
+  in _Proceedings of IEEE Global Communications Conference 2020_ **(GLOBECOM'20)**, Taipei, Taiwan, 2020.
+
+* **[GLOBECOM'20]** [Energy-Efficient Link Selection for Decentralized Learning via Smart Devices with Edge Computing](http://github.com "Github")  
+  **Cheng-Wei Ching**, Chung-Kai Yang, Yu-Chun Liu, Chia-Wei Hsu, Jian-Jhih Kuo, Hung-Sheng Huang, Jen-Feng Lee    
+  in _Proceedings of IEEE Global Communications Conference 2020_ **(GLOBECOM'20)**, Taipei, Taiwan, 2020.
+
 
 ## Journal Papers
 
+* **[TSC]** [Dual-Objective Personalized Federated Service System With Partially-Labeled Data Over Wireless Networks](http://github.com "Github")  
+  **Cheng-Wei Ching**, Jia-Ming Chang, Jian-Jhih Kuo, Chih-Yu Wang    
+  in _IEEE Transactions on Services Computing_ **(IEEE TSC)**, volume 16, issue 5, pages 3265 - 3279, Sept.-Oct. 2023.
+
+* **[TGCN]** [Energy-Efficient Topology Construction via Power Allocation for Decentralized Learning via Smart Devices with Edge Computing](http://github.com "Github")  
+  Jian-Jhih Kuo, **Cheng-Wei Ching**, Hung-Sheng Huang, Yu-Chun Liu    
+  in _IEEE Transactions on Green Communications and Networking_ **(IEEE TGCN)**, volume 5, issue 4, pages 1806-1819, July 2021.
+
 
 ## Workshop Papers
+
+* **[ECAI'23]** [OrcoDCS: An IoT-Edge Orchestrated Online Deep Compressed Sensing Framework](http://github.com "Github")  
+  **Cheng-Wei Ching**, Chirag Gupta, Zi Huang, Liting Hu    
+  in _Proceedings of the First International Workshop on Edge-to-Cloud AI Orchestration (ECAI), in conjunction with IEEE 43rd International Conference on Distributed Computing Systems_ **(ICDCS'23)**, Hong Kong, China, 2023.
+
+* **[ECAI'23]** [OrcoDCS: An IoT-Edge Orchestrated Online Deep Compressed Sensing Framework](http://github.com "Github")  
+  **Cheng-Wei Ching**, Chirag Gupta, Zi Huang, Liting Hu    
+  in _Proceedings of the Second International Workshop on Network Meets Intelligent Computations (NMIC), in conjunction with IEEE 40th International Conference on Distributed Computing Systems_ **(ICDCS'20)**, virtual event, 2020.
