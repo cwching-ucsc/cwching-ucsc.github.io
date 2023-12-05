@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Cheng-Wei Ching"
   avatar           : "Cheng-Wei.jpg"
-  bio              : "Hi, my name is Cheng-Wei Ching and I am a PhD student at the ELVES lab led by Dr. Liting Hu. My research interests include distributed systems for machine learning, distributed machine learning, and algorithm designs. Please refer to my personal website for more details."
-  location         : "Location"
+  bio              : "Hi, I am a PhD student at the ELVES lab led by Dr. Liting Hu. My research interests include distributed systems for machine learning, distributed machine learning, and algorithm designs."
+  location         : "California, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com.tw/citations?user=r23-Ou8AAAAJ&hl=en"
+  email            : "cching1@ucsc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/chengweiching/"
+  orcid            : "https://orcid.org/0000-0001-6621-4907"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
