@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cheng-Wei Ching"
+  name             : "test"
   avatar           : #"Cheng-Wei.jpg"
   bio              : "Hi, my name is Cheng-Wei Ching and I am a PhD student at the ELVES lab led by Dr. Liting Hu. My research interests include distributed systems for machine learning, distributed machine learning, and algorithm designs. Please refer to my personal website for more details."
   # location         : "Location"
